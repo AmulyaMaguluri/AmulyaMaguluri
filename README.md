@@ -11,7 +11,7 @@
         <img src="https://media.licdn.com/dms/image/sync/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/0/1710968205584?e=2147483647&v=beta&t=3fADI15D9Jp60wIgVyzd7buZnTNW6_ZDUG_qGk-TikQ" alt="Centered GIF">
     </center>
 
-- 🔭 I’m currently working on **DDOS Detection**
+- 🔭 I’m currently interning at **Society for Cyberabad Security Council**
 
 - 🌱 I’m currently learning **Btech Cyber Security**
 
